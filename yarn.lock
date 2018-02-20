@@ -3243,9 +3243,9 @@ trim-right@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/trim-right/-/trim-right-1.0.1.tgz#cb2e1203067e0c8de1f614094b9fe45704ea6003"
 
-trumbowyg@hashwin/Trumbowyg#206350e:
-  version "2.3.0"
-  resolved "https://codeload.github.com/hashwin/Trumbowyg/tar.gz/206350e131949ed79ede69d0acdf844726add150"
+trumbowyg@hashwin/Trumbowyg#a6aa915:
+  version "2.8.0"
+  resolved "https://codeload.github.com/hashwin/Trumbowyg/tar.gz/a6aa91526ee110f1e4856de14aa8667d238476a4"
 
 tty-browserify@0.0.0:
   version "0.0.0"

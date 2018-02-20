@@ -21,7 +21,7 @@
   "dependencies": {
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
-    "trumbowyg": "hashwin/Trumbowyg#206350e"
+    "trumbowyg": "hashwin/Trumbowyg#a6aa915"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
