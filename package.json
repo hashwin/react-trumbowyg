@@ -19,8 +19,9 @@
   "author": "RD17",
   "license": "MIT",
   "dependencies": {
-    "react": "^15.3.2",
-    "react-dom": "^15.3.2",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
     "trumbowyg": "hashwin/Trumbowyg#a6aa91526ee110f1e4856de14aa8667d238476a4"
   },
   "devDependencies": {
