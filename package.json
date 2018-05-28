@@ -22,7 +22,7 @@
     "prop-types": "^15.6.1",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
-    "trumbowyg": "hashwin/Trumbowyg#c1297ab300007e832c355aca44f9fe7dee263e2c"
+    "trumbowyg": "^2.10.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
